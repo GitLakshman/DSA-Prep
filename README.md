@@ -48,3 +48,22 @@ This Repo contains all the important pattern problems that you must solve before
 ---
 ### Pattern6 ###
 ```
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+```
+---
+### Pattern7 ###
+```
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+```
+---
+### Pattern8 ###
+```
