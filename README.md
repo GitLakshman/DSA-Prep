@@ -1,4 +1,4 @@
-# Pattern-Problems-DSA
+## Pattern-Problems
 ---
 ### Pattern1 ###
 ```
